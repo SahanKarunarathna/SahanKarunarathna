@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/dumindu_sahan" target="blank"><img src="https://img.shields.io/twitter/follow/dumindu_sahan?logo=twitter&style=for-the-badge" alt="dumindu_sahan" /></a> </p>
 
+- 🔭 I’m currently working on **Sri Lanka Ports Authority**
+
 - 🌱 I’m currently learning **Sri Lanka Institute of Information Technology**
 
 - 📫 How to reach me **dumindusahan342@gmail.com**
