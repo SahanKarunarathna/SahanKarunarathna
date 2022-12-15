@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahankarunarathna&label=Profile%20views&color=0e75b6&style=flat" alt="sahankarunarathna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahankarunarathna&label=Profile%20views&color=0e75b6&style=flat" alt="sahankarunarathna" /> <br /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahankarunarathna" alt="sahankarunarathna" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahankarunarathna" alt="sahankarunarathna" /></a><br /> </p>
 
 <p align="left"> <a href="https://twitter.com/dumindu_sahan" target="blank"><img src="https://img.shields.io/twitter/follow/dumindu_sahan?logo=twitter&style=for-the-badge" alt="dumindu_sahan" /></a> </p>
 
