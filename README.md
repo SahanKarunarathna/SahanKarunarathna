@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/dumindu_sahan" target="blank"><img src="https://img.shields.io/twitter/follow/dumindu_sahan?logo=twitter&style=for-the-badge" alt="dumindu_sahan" /></a> </p><br>
 <br>
-- 🌱 Studied at **Thurstan College, Colombo 07**<br><br>
+
+- 🌱 Studied at **Thurstan Collage, Colombo 07**<br><br>
 
 
 - 🌱 Graduated at **Sri Lanka Institute of Information Technology**<br><br>
